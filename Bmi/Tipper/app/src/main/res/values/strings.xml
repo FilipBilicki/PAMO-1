@@ -1,0 +1,8 @@
+<resources>
+   <string name="app_name">BMI Calculator</string>
+   <string name="wage">Enter Wage</string>
+   <string name="heightNum">height</string>
+   <string name="height">15</string>
+   <string name="bmi">BMI</string>
+
+</resources>

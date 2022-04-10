@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="wage">Enter Wage</string>
+    <string name="heightNum">height</string>
+    <string name="height">15</string>
+    <string name="age">Enter Age</string>
+    <string name="bmi">BMI</string>
+    <string name="kcal">Kcal</string>
+    <string name="recipe1">Recipe1</string>
+    <string name="recipe2">Recipe2</string>
+
+
+</resources>
+
